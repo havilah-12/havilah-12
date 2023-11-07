@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @havilah-12
 - 👀 I’m interested in Web development and Data Science
 - 🌱 I'm currently doing a Web development Internship
-- 💞️ I’m looking to collaborate on projects in C,C++,python and front-end projects.
+- 💞️ I’m looking to collaborate on projects in C,C++,python and Web-Development Projects
 - 📫 How to reach me :Send an invitation to collaborate in your repository directly to me  on GitHub.com, or to my  email address - havilah303200@gmail.com
 
 
