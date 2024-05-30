@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Havilah
 - 👀 I’m interested in Data analytics and Data Science.
-- 🌱 I'm currently doing a data analytics Internship at Trainity.
 - 💞️ I talk about analytics,big data,EDA,data visualizations and more..
-- 📫 How to reach me :Send an invitation to collaborate in your repository directly to me  on GitHub.com, or to my  email address - havilah303200@gmail.com
+
 
 
 <!---
