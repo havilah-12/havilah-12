@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Havilah
 - 👀 I’m interested in Data analytics and Data Science.
-- 💞️ I talk about analytics,big data,EDA,data visualizations and more..
+
 
 
 
