@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Havilah
-- 👀 I’m interested in Data analytics and Data Science.
+- 👀 I’m interested in Data Science and Machine Learning.
 
 
 
