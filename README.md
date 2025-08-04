@@ -1,5 +1,8 @@
-- 👋 Hi, I’m Havilah
-- 👀 I’m interested in Data Science and Machine Learning.
+### 👋 Hi, I’m Havilah
+
+- 👀 I’m interested in **Data Science**, **Machine Learning**, and building **practical software tools**.
+- 🛠️ I work on projects that combine automation, intelligence, and real-world problem solving.
+- 💡 I love turning ideas into clean, usable applications — from AI-powered chatbots to web-based recipe dashboards.
 
 
 
