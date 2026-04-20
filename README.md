@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Havilah
 
-- 👀  I'm an AI Engineer with full-stack experience — building practical tools where machine learning meets real user workflows.
-- 💡 I love turning ideas into clean, usable applications — from AI-powered chatbots to web-based recipe dashboards.
+- 👀  I'm an AI Engineer with full-stack experience building practical tools where machine learning meets real user workflows.
+- 💡 I love turning ideas into clean, usable applications from AI-powered chatbots to web-based recipe dashboards.
 
 
 
