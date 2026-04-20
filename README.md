@@ -1,7 +1,6 @@
 ### 👋 Hi, I’m Havilah
 
-- 👀 I’m interested in **Data Science**, **Machine Learning**, and building **practical software tools**.
-- 🛠️ I work on projects that combine automation, intelligence, and real-world problem solving.
+- 👀  I'm an AI Engineer with full-stack experience — building practical tools where machine learning meets real user workflows.
 - 💡 I love turning ideas into clean, usable applications — from AI-powered chatbots to web-based recipe dashboards.
 
 
